@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there👋
 
 ## Me chamo Vitória Anjos
 (Java | Spring Boot | AWS | Angular) 🚀
