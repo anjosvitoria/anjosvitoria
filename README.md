@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 - 👩‍💻 Estagiária em Engenharia de Software @[Itaú](https://www.itau.com.br/)
 - 📚 Analise e desenvolvimento de sistemas
 
-[![Linkedin Badge](https://www.linkedin.com/in/vitória-pereira-dos-anjos-1143501a8/)]
-
+<a href="https://www.linkedin.com/in/vitória-pereira-dos-anjos-1143501a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### ⚡ Technologies
 
